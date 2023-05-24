@@ -1,5 +1,3 @@
-import { socialLinks } from "../data";
-
 const SocialLink = (props) => {
   const { href, icon, itemClass } = props;
   return (
